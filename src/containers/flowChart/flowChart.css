@@ -1,0 +1,7 @@
+.sc-VigVT {
+    transform: translate(0px, 0px) scale(1);
+    width: 937px;
+    height:-webkit-fill-available !important;
+    background-image: linear-gradient(0deg, transparent 0%, transparent 96%, rgba(0, 0, 0, 0.2) 100%), linear-gradient(90deg, transparent 0%, transparent 96%, rgba(0, 0, 0, 0.2) 100%);
+    background-size: 25px 25px;
+}

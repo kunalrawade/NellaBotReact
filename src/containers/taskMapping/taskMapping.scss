@@ -1,0 +1,210 @@
+.taskMapping {
+
+  .card {
+    height: auto !important;
+    margin: 8px;
+    .card-body {
+      height: auto !important;
+    }
+    .card-header {
+      padding: 5px;
+    }
+    .card-footer {
+      padding: 5px;
+      text-align: center;
+    }
+  }
+}
+input {
+  width:100%;
+}
+i {
+  cursor: pointer;
+}
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+.card {
+  border-radius: .25rem !important;
+}
+.modal-content {
+  border-radius: .3rem !important;
+}
+body
+{
+  background-image: url('../../img/bg-img.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: -webkit-fill-available;
+}
+
+.fa-e:before {
+  font-family: Arial;
+  font-weight: bold;
+  content: 'E';
+  font-size: 20px;
+  color: white
+}
+
+.fa-e{
+  background-color: #3c454e;
+  border-radius: 10px;
+  width: 40px;
+}
+
+.fa-d:before {
+  font-family: Arial;
+  font-weight: bold;
+  content: 'D';
+  font-size: 20px;
+  color: white
+}
+
+.fa-t{
+  background-color: #3c454e	;
+  border-radius: 10px;
+  width: 40px;
+}
+.fa-u{
+  background-color: #3c454e	;
+  border-radius: 10px;
+  width: 40px;
+}
+
+
+.fa-t:before {
+  font-family: Arial;
+  font-weight: bold;
+  content: 'T';
+  font-size: 20px;
+  color: white
+}
+.fa-u:before {
+  font-family: Arial;
+  font-weight: bold;
+  content: 'U';
+  font-size: 20px;
+  color: white
+}
+
+
+.fa-d{
+  background-color: #3c454e	;
+  border-radius: 10px;
+  width: 40px;
+}
+
+.fa-r:before {
+  font-family: Arial;
+  font-weight: bold;
+  content: 'R';
+  font-size: 20px;
+  color: white;
+  padding: 1px
+}
+
+.fa-m:before {
+  font-family: Arial;
+  font-weight: bold;
+  content: 'M';
+  font-size: 20px;
+  color: white;
+  padding: 1px
+}
+
+.fa-m:before {
+  font-family: Arial;
+  font-weight: bold;
+  content: 'M';
+  font-size: 20px;
+  color: white;
+  padding: 1px
+}
+
+.fa-dd:before{
+  font-family: Arial;
+  font-weight: bold;
+  content: 'D';
+  // font-size: 20px;
+}
+
+.fa-tt:before{
+  font-family: Arial;
+  font-weight: bold;
+  content: 'T';
+  // font-size: 20px;
+}
+.fa-uu:before{
+  font-family: Arial;
+  font-weight: bold;
+  content: 'U';
+  // font-size: 20px;
+}
+.fa-rr:before{
+  font-family: Arial;
+  font-weight: bold;
+  content: 'R';
+  // font-size: 20px;
+}
+
+.fa-mm:before{
+  font-family: Arial;
+  font-weight: bold;
+  content: 'M';
+  // font-size: 20px;
+}
+
+.fa-r{
+  background-color: #3c454e;
+  border-radius: 10px;
+  width: 40px;
+}
+
+.fa-m{
+  background-color: #3c454e;
+  border-radius: 10px;
+  width: 40px;
+}
+
+.fa-m{
+  background-color: #3c454e;
+  border-radius: 10px;
+  width: 40px;
+}
+
+.inputvalue{
+  width : 9em
+}
+
+.inputlabel{
+font-size: 90%
+}
+
+.inputName{
+ 
+  border-radius: 8px !important;
+}
+.inputName5{
+  margin-bottom:15px;
+  float:left; 
+  border-radius: 8px !important;
+}
+
+
+.inputName1{
+  border-radius: 8px !important;
+  width: 100%
+}
+
+.plusSymbol{
+  margin-bottom:22px;
+}
+
+.uploadFile{
+ display: block !important;
+ opacity: unset !important;
+}

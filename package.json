@@ -15,7 +15,7 @@
     "jquery": "^3.4.1",
     "materialize-css": "^1.0.0-rc.2",
     "mdbreact": "^4.12.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "query-string": "^6.8.1",
     "react": "^16.8.5",
     "react-accessible-accordion": "^3.0.0",
